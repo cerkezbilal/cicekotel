@@ -1,0 +1,11 @@
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.exe.config
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.exe
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.pdb
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csprojAssemblyReference.cache
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Form1.resources
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Form2.resources
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Properties.Resources.resources
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csproj.GenerateResource.cache
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csproj.CoreCompileInputs.cache
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.exe
+D:\c# Uygulamaları\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.pdb
