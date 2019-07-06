@@ -1,4 +1,5 @@
 # cicekotel
+Yapılış Tarihi: 27/07/2015
 C# dili ile yapılmış bir otel otomasyonu ve veri tabanı olarak da access kullandım
 Uygulamada oda ekleme ile odaları yeşil renge döndürüyoruz bu odanın müsait olduğunu gösteriyor ve eklerken odanın kaç yataklı hangi cephe
 banyo sayısı katı gibi bilgileri ekliyoruz. müşteri geldiğinde kişisel bilgiler ve oda numarasını seçiyoruz. kaç gün kalacağına göre tutar
